@@ -2,14 +2,11 @@
 <img width="384" height="384" alt="Contact PVP Icon V1 4" src="https://github.com/user-attachments/assets/c1bbec9a-0c6b-430a-8059-cfca6773683f" />
 
 
-An Avatar Based PVP system that can be used anywhere anytime no matter the map
+A PVP system for Quest and PC that can be used anywhere anytime no matter the map because it's part of the Avatar
 
-The system uses Local Contact Receiver hit boxes and Non Local Content Senders to deal damage
+The system Contacts to Send and Receive Damage or effects with Damage types
 
-<img width="336" height="188" alt="YouTube Tutorial Thumbnail" src="https://i.ytimg.com/vi/TbUnXEvLUac/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgUyh_MA8=&rs=AOn4CLDOcMp4m3NC1httuKJdbJmxorsoBQ" />
-
-
-To make guns work without going though walls guns have the Contact sender on the end of a Raycast to colide with Player local to hit the player with colliders using the Chair Collider exploits 
+The system uses the Chair Collider Exploit to add Hitboxes on Quest for Raycasts to collide with for guns to work and not shoot through walls
 
 watch the Tutorial for how to set it up on your Avi
 https://youtu.be/TbUnXEvLUac
