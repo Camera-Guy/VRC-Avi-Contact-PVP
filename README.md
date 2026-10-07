@@ -11,8 +11,6 @@ Ofc Melee works Raycast is just for Projectile Hitscan
 
 The system includes HUD Indicator system For Quest
 
-System uses 3 Bools a Raycast per gun and
-
 watch the Tutorial for how to set it up on your Avi
 https://youtu.be/TbUnXEvLUac
 
