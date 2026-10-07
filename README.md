@@ -23,36 +23,36 @@ Current Damage Type Collision Tags
 - damage lite
 - damage medium
 - damage heavy
-* damage insta
-
+- damage insta
+     
 - plasma light
 - plasma medium
 - plasma heavy
 - plasma insta
-* damage stab
- 
+- damage stab
+      
 - fire
-* fire out
-
+- fire out
+     
 - stun
 - OC spray
-* flashbang
-
+- flashbang
+     
 - heal
 
 Vehicle Damage Tags (So you can have Armored Vehicles not damaged by small arms)
 - veh damage lite
 - veh damage medium
 - veh damage heavy
-* veh damage insta
-
+- veh damage insta
+     
 - veh plasma light
 - veh plasma medium
 - veh plasma heavy
 - veh plasma insta
-* veh damage stab
-
+- veh damage stab
+     
 - veh fire
-* veh fire out
-
+- veh fire out
+     
 - veh heal
