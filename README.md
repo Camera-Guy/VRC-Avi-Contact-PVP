@@ -16,6 +16,10 @@ System uses 3 Bools a Raycast per gun and
 watch the Tutorial for how to set it up on your Avi
 https://youtu.be/TbUnXEvLUac
 
+<a href="https://youtu.be/TbUnXEvLUac" target="_blank">
+  <img src="https://youtu.be/TbUnXEvLUac/hqdefault.jpg" alt="Watch the video" width="500" />
+</a>
+
 Here's is my Animation re linker in the Tutorial
 https://github.com/Camera-Guy/Unity-Improved-Animation-Hierarchy-Editor
 
