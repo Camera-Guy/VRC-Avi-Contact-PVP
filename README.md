@@ -19,7 +19,7 @@ https://youtu.be/TbUnXEvLUac
 Here's is my Animation re linker in the Tutorial
 https://github.com/Camera-Guy/Unity-Improved-Animation-Hierarchy-Editor
 
-Current Damage Type Collision Tags
+Current person Damage Type Collision Tags
 - damage lite
 - damage medium
 - damage heavy
@@ -36,7 +36,7 @@ Current Damage Type Collision Tags
 - flashbang
 - heal
 
-Vehicle Damage Tags (So you can have Armored Vehicles not damaged by small arms)
+Vehicle Damage Tags Collision Tags (So you can have Armored Vehicles not damaged by small arms)
 - veh damage lite
 - veh damage medium
 - veh damage heavy
