@@ -7,6 +7,10 @@ The system uses Contacts to Send and Receive Damage or effects with Damage types
 
 The system uses the Chair Collider Exploit to add Hitboxes on Quest for Raycasts to collide with for guns to work and not shoot through walls
 
+Ofc Melee works Raycast is just for Projectile Hitscan
+
+The system includes HUD Indicator system For Quest
+
 watch the Tutorial for how to set it up on your Avi
 https://youtu.be/TbUnXEvLUac
 
