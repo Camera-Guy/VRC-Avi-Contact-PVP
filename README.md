@@ -1,5 +1,5 @@
 # VRC-Avi-Contact-PVP
-<img width="1024" height="1024" alt="Contact PVP Icon V1 4" src="https://github.com/user-attachments/assets/c1bbec9a-0c6b-430a-8059-cfca6773683f" />
+<img width="512" height="512" alt="Contact PVP Icon V1 4" src="https://github.com/user-attachments/assets/c1bbec9a-0c6b-430a-8059-cfca6773683f" />
 
 
 An Avatar Based PVP system that can be used anywhere anytime no matter the map
