@@ -19,7 +19,7 @@ https://youtu.be/TbUnXEvLUac
 Here's is my Animation re linker in the Tutorial
 https://github.com/Camera-Guy/Unity-Improved-Animation-Hierarchy-Editor
 
-Current person Damage Type Collision Tags
+Person Damage Type Collision Tags
 - damage lite
 - damage medium
 - damage heavy
