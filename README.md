@@ -23,8 +23,8 @@ Current Damage Type Collision Tags
 - damage lite
 - damage medium
 - damage heavy
-- damage insta
-*
+* damage insta
+
 - plasma light
 - plasma medium
 - plasma heavy
