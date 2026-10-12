@@ -19,6 +19,9 @@ For Help join my discord at https://camera-guy.com/
 Here's is my Animation re linker in the Tutorial
 https://github.com/Camera-Guy/Unity-Improved-Animation-Hierarchy-Editor
 
+My Animator Merger Tool
+https://github.com/Camera-Guy/Unity-Animator-Merger
+
 Person Damage Type Collision Tags
 - damage lite
 - damage medium
