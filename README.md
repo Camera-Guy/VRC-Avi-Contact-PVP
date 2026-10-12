@@ -14,6 +14,8 @@ The system includes HUD Indicator system For Quest
 watch the Tutorial for how to set it up on your Avi
 https://youtu.be/TbUnXEvLUac
 
+For Help join my discord at https://camera-guy.com/
+
 Here's is my Animation re linker in the Tutorial
 https://github.com/Camera-Guy/Unity-Improved-Animation-Hierarchy-Editor
 
