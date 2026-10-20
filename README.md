@@ -23,7 +23,7 @@ My Animator Merger Tool
 https://github.com/Camera-Guy/Unity-Animator-Merger
 
 Person Damage Type Collision Tags
-- damage lite
+- damage light
 - damage medium
 - damage heavy
 - damage insta
@@ -40,7 +40,7 @@ Person Damage Type Collision Tags
 - heal
 
 Vehicle Damage Tags Collision Tags (So you can have Armored Vehicles not damaged by small arms)
-- veh damage lite
+- veh damage light
 - veh damage medium
 - veh damage heavy
 - veh damage insta
